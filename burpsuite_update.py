@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 #
-# Downloads the latest burpsuite community jar file and saves it to /usr/bin/burpsuite.jar
-# EXTREMELY likely to break in the not too distant future
-# as portswigger make any changes their download page
+# Downloads the latest burpsuite community jar file and saves it to /usr/share/burpsuite.jar (the default location at time of writing)
+# EXTREMELY likely to break in the future
+# as portswigger make any changes to their download page etc.
 #
 # Disclaimer:
 # NEVER run code from github on your machine without making
