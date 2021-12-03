@@ -1,4 +1,4 @@
-# useful-scripts
+# Useful scripts
 A place for any useful scripts I write or come across
 
 
