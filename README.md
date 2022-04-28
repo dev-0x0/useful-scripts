@@ -14,4 +14,3 @@ without knowing exactly what you're doing._
 
 **self_delete_windows.py** - A simple script that self deletes with _os.remove_ and _cipher_
 
-Note: The self-deleting scripts 
