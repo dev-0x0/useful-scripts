@@ -1,5 +1,5 @@
 # Useful scripts
-A place for any useful scripts I write or come across
+A place for any useful scripts I write
 
 
 _Disclaimer:
