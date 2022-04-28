@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Simply parses a logfile (provided as an argument) for unique Javascript filenames
+# Sorts and lists them
+# The regex was good enough for my needs
+
+cat "$1" | grep -oP '[^/]*\.js(?![a-zA-Z0-9])' | sort -u
