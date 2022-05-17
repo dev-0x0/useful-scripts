@@ -50,7 +50,8 @@ download_link = DOWNLOAD_URL.format(latest_version)
 os.chdir("/usr/share/burpsuite")
 
 # backup current jar just in case
-os.system("rm burpsuite.jar.old 2>/dev/null")
-os.system("mv burpsuite.jar burpsuite.jar.old")
-os.system("wget -O burpsuite.jar {}".format(download_link))
+os.system("sudo rm burpsuite.jar.old 2>/dev/null")
+os.system("sudo mv burpsuite.jar burpsuite.jar.old")
+print(download_link)
+os.system("sudo wget -O burpsuite.jar {}".format(download_link))
 
