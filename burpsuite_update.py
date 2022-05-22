@@ -9,7 +9,9 @@
 # sure you know what it does first. I'm not responsible for any
 # loss or damage incurred by running this script. Enjoy!
 #
-# dev0x0 2020
+# dev0x0 2020 -- d3v0x00@proton.me
+# 
+# 
 #
 
 import os
