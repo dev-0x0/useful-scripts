@@ -15,3 +15,7 @@ without knowing exactly what you're doing._
 **self_delete_windows.py** - A simple script that self deletes with _os.remove_ and _cipher_
 
 **parse_log_for_js.sh**    - Sort and list the unique Javascript filenames in a web server log 
+
+**enum-ad-spn.ps1**	- Enumerate SPNs on a domain-joined Windows system
+
+**enum-ad-nested-groups.ps1** - Enumerate Nested Groups on a domain-joined Windows System
