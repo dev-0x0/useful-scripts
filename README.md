@@ -25,5 +25,5 @@ without knowing exactly what you're doing._
 ### Buffer Overflows
 
 **getbadchars.py**  - Generate bad character byte array for BOF. Allows for exclusion of specified bytes.
-**addr_to_little_endian.py** - Convert memory address to little endian in bytes
-**hexify-badchars.py** - Takes string of bad chars as output by mona.py and outputs in byte format
+**addr_to_little_endian.py** - Convert memory address to little endian in bytes format<br>
+**hexify-badchars.py** - Takes string of bad chars as output by mona.py and outputs in bytes format
